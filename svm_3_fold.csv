@@ -1,0 +1,8 @@
+metric,score
+average precison:,0.09
+average recall:,0.33
+average f1 score:,0.14
+average accuracy:,0.09
+avg log loss:,22.62
+avg mean square error: ,0.66
+avg error rate0.91
